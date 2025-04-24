@@ -7,7 +7,7 @@ This repository contains my submission for the Kaggle "Natural Language Processi
 The goal is to classify tweets as disaster-related or not using NLP techniques. The notebook includes EDA, model building (LSTM), hyperparameter tuning, and analysis.
 
 ## Setup
-1. Clone the repository: `git clone https://github.com/yourusername/`
+1. Clone the repository: `git clone https://github.com/aimlgpu/`
 2. Run the notebook: `jupyter notebook w4-nlp.ipynb`
 3. Data: Use the Kaggle dataset at `/kaggle/input/nlp-getting-started`.
 
